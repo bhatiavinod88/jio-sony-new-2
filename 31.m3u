@@ -1,0 +1,316 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title=" IndiaIPTV2021",ABP News India
+https://jio.instream.ml/jio.php?c=ABP_News_India&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title=" IndiaIPTV2021",Aaj Tak
+https://jio.instream.ml/jio.php?c=Aaj_Tak&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title=" IndiaIPTV2021",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title=" IndiaIPTV2021",News 18 India
+https://jio.instream.ml/jio.php?c=IBN_7&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title=" IndiaIPTV2021",News 24
+https://jio.instream.ml/jio.php?c=News_24&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title=" IndiaIPTV2021",Total TV
+https://jio.instream.ml/jio.php?c=Total_TV&q=600&e=.m3u8
+
+#EXTINF: -1 group-title="STAR7", Hindi NDTV India 
+http://212.102.60.40:2200/R-EX/HINDI_NDTV_INDIA-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF: -1 group-title="STAR7", Hindi NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" group-title=" IndiaIPTV2021",TV9 Bharatvarsh
+https://jio.instream.ml/jio.php?c=TV9_Bharatvarsh&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title=" IndiaIPTV2021",Sony HD
+https://jio.instream.ml/jio.php?c=Sony_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title=" IndiaIPTV2021",Sony SD
+https://jio.instream.ml/jio.php?c=Sony_SD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title=" IndiaIPTV2021",Sony SAB HD
+https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title=" IndiaIPTV2021",Sony SAB
+https://jio.instream.ml/jio.php?c=Sony_SAB&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title=" IndiaIPTV2021",And TV HD
+https://jio.instream.ml/jio.php?c=And_TV_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title=" IndiaIPTV2021",Zee TV HD
+https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title=" IndiaIPTV2021",Colors HD
+https://jio.instream.ml/jio.php?c=Colors_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title=" IndiaIPTV2021",Zee TV HD
+https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title=" IndiaIPTV2021",Colors HD
+https://jio.instream.ml/jio.php?c=Colors_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title=" IndiaIPTV2021",Zee Cinema HD
+https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title=" IndiaIPTV2021",Zee Cinema
+https://jio.instream.ml/jio.php?c=Zee_Cinema&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title=" IndiaIPTV2021",Sony Max HD
+https://jio.instream.ml/jio.php?c=Sony_Max_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title=" IndiaIPTV2021",Colors Cineplex HD
+https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=600&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title=" IndiaIPTV2021",Zee Bollywood
+https://jio.instream.ml/jio.php?c=Zee_Classic&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title=" IndiaIPTV2021",And Pictures HD
+https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title=" IndiaIPTV2021",Zee Action
+https://jio.instream.ml/jio.php?c=Zee_Action&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title=" IndiaIPTV2021",B4U Movies
+https://jio.instream.ml/jio.php?c=B4U_Movies&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title=" IndiaIPTV2021",Sony MAX2
+https://jio.instream.ml/jio.php?c=Sony_MAX2&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title=" IndiaIPTV2021",Enterr 10
+https://jio.instream.ml/jio.php?c=Enterr_10&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title=" IndiaIPTV2021",Colors Cineplex
+https://jio.instream.ml/jio.php?c=Colors_Cineplex&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title=" IndiaIPTV2021",Zee Anmol Cinema
+https://jio.instream.ml/jio.php?c=Zee_Anmol_Cinema&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title=" IndiaIPTV2021",Box Cinema
+https://jio.instream.ml/jio.php?c=Box_Cinema&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title=" IndiaIPTV2021",Colors Infinity SD
+https://jio.instream.ml/jio.php?c=Colors_Infinity_SD&q=600&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title=" IndiaIPTV2021",Maha Movies
+https://jio.instream.ml/jio.php?c=Maha_Movies&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title=" IndiaIPTV2021",Sony Pix HD
+https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title=" IndiaIPTV2021",Sony Six HD
+https://jio.instream.ml/jio.php?c=Six_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title=" IndiaIPTV2021",MTV HD Plus
+https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title=" IndiaIPTV2021",MTV
+https://jio.instream.ml/jio.php?c=MTV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title=" IndiaIPTV2021",iLove
+https://jio.instream.ml/jio.php?c=iLove&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title=" IndiaIPTV2021",9XM
+https://jio.instream.ml/jio.php?c=9XM&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title=" IndiaIPTV2021",B4U Music
+https://jio.instream.ml/jio.php?c=B4U_Music&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title=" IndiaIPTV2021",Music India
+https://jio.instream.ml/jio.php?c=Music_India&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title=" IndiaIPTV2021",9X Jalwa
+https://jio.instream.ml/jio.php?c=9X_Jalwa&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title=" IndiaIPTV2021",Balle Balle TV
+https://jio.instream.ml/jio.php?c=Balle_Balle_TV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title=" IndiaIPTV2021",iLove
+https://jio.instream.ml/jio.php?c=iLove&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title=" IndiaIPTV2021",Pitaara
+https://jio.instream.ml/jio.php?c=Pitaara&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title=" IndiaIPTV2021",Zee News
+https://jio.instream.ml/jio.php?c=Zee_News&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title=" IndiaIPTV2021",India TV
+https://jio.instream.ml/jio.php?c=India_TV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title=" IndiaIPTV2021",News Nation
+https://jio.instream.ml/jio.php?c=News_Nation&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title=" IndiaIPTV2021",Hindi Khabar
+https://jio.instream.ml/jio.php?c=Hindi_Khabar&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title=" IndiaIPTV2021",Discovery Kids 2
+https://jio.instream.ml/jio.php?c=Discovery_Kids_2&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title=" IndiaIPTV2021",Nick Hindi
+https://jio.instream.ml/jio.php?c=Nick_Hindi&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title=" IndiaIPTV2021",Cartoon Network Hindi
+https://jio.instream.ml/jio.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title=" IndiaIPTV2021",Nick HD+
+https://jio.instream.ml/jio.php?c=Nick_HD_Plus&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title=" IndiaIPTV2021",Pogo Hindi
+https://jio.instream.ml/jio.php?c=Pogo_Hindi&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title=" IndiaIPTV2021",Nickelodeon
+https://jio.instream.ml/jio.php?c=Nickelodeon&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title=" IndiaIPTV2021",Nickelodeon Jr.
+https://jio.instream.ml/jio.php?c=Nickelodeon_Jr&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title=" IndiaIPTV2021",Sony Yay Hindi
+https://jio.instream.ml/jio.php?c=Sony_Yay_Hindi&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title=" IndiaIPTV2021",Discovery HD World
+https://jio.instream.ml/jio.php?c=Discovery_HD_World&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title=" IndiaIPTV2021",MTV
+https://jio.instream.ml/jio.php?c=MTV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title=" IndiaIPTV2021",9XM
+https://jio.instream.ml/jio.php?c=9XM&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title=" IndiaIPTV2021",E 24
+https://jio.instream.ml/jio.php?c=E_24&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title=" IndiaIPTV2021",MTV Beats HD
+https://jio.instream.ml/jio.php?c=MTV_Beats_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title=" IndiaIPTV2021",Music India
+https://jio.instream.ml/jio.php?c=Music_India&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title=" IndiaIPTV2021",9X Jalwa
+https://jio.instream.ml/jio.php?c=9X_Jalwa&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title=" IndiaIPTV2021",Darshan 24
+https://jio.instream.ml/jio.php?c=Darshan_24&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title=" IndiaIPTV2021",Divya TV
+https://jio.instream.ml/jio.php?c=Divya_TV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title=" IndiaIPTV2021",Aastha
+https://jio.instream.ml/jio.php?c=Aastha&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Siddhivinayak.png" group-title=" IndiaIPTV2021",Shree Siddhivinayak
+https://jio.instream.ml/jio.php?c=Siddhivinayak&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title=" IndiaIPTV2021",Sanskar
+https://jio.instream.ml/jio.php?c=Sanskar&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title=" IndiaIPTV2021",Disha tv
+https://jio.instream.ml/jio.php?c=Disha_tv&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title=" IndiaIPTV2021",mh1 Shraddha
+https://jio.instream.ml/jio.php?c=mh1_Shraddha&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title=" IndiaIPTV2021",Sadhna
+https://jio.instream.ml/jio.php?c=Sadhna&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title=" IndiaIPTV2021",9x Jhakaas
+https://jio.instream.ml/jio.php?c=9x_Jhakaas&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title=" IndiaIPTV2021",Dillagi TV
+https://jio.instream.ml/jio.php?c=Dillagi_TV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title=" IndiaIPTV2021",Dhamaal TV
+https://jio.instream.ml/jio.php?c=Dhamaal_TV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title=" IndiaIPTV2021",News18 Haryana and HP News
+https://jio.instream.ml/jio.php?c=ETV_Haryana_and_HP_News&q=600&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title=" IndiaIPTV2021",9X Tashan
+https://jio.instream.ml/jio.php?c=9X_Tashan&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title=" IndiaIPTV2021",Chardikla Time TV
+https://jio.instream.ml/jio.php?c=Chardikla_Time_TV&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title=" IndiaIPTV2021",Pitaara
+https://jio.instream.ml/jio.php?c=Pitaara&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title=" IndiaIPTV2021",Manoranjan Movies
+https://jio.instream.ml/jio.php?c=Manoranjan_Movies&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" group-title=" IndiaIPTV2021",Haryanvi Hits
+https://jio.instream.ml/jio.php?c=Haryanvi_Hits&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title=" IndiaIPTV2021",BBC News Hindi
+https://jio.instream.ml/jio.php?c=BBC_Hindi&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title=" SonyLiv",Sony HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title=" IndiaIPTV2021",Animal Planet Hindi
+https://jio.instream.ml/jio.php?c=Animal_Planet_Hindi&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="SonyLiv",Animal Planet Hindi
+https://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SonyLiv",Sony SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SonyLiv",Sony Max HD
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
+#EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SonyLiv",Sony PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",SONY TEN1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",Sony Ten 1 SD
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SonyLiv",Sony Ten 2 SD
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SonyLiv",Sony Ten 3 SD
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 SD
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SonyLiv",Sony SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLiv",Sony Six SD
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF: -1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SonyLiv",SONY SET HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF: -1 tvg-id="471" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SonyLiv",SONY SAB
+https://jio.instream.ml/jio.php?c=Sony_SAB&q=800&e=.m3u
+#EXTINF: -1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SonyLiv",SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF: -1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SonyLiv",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF: -1 tvg-id="1146" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SonyLiv",SONY MARATHI
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF: -1 tvg-id="697" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SonyLiv",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF: -1 tvg-id="1276" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SonyLiv",SONY YAY HIN
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF: -1 tvg-id="476" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="SonyLiv",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SonyLiv",SONY MAX SD
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF: -1 tvg-id="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLiv",SONY MAX 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF: -1 tvg-id="1276" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SonyLiv",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SonyLiv",BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+
+
+
+
